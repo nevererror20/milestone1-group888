@@ -1,9 +1,9 @@
 # Contributing
----
+
 Welcome to our Billionaire Landscape Project! We are excited to have you on board and appreciate your interest in contributing. This document provides guidelines and instructions to help you get started with contributing to the project.
 
 ## How to Contribute
----
+
 ### Reporting Bugs
 Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). After identifying a specific bug, create an issue in the repository and provide the following information:
 

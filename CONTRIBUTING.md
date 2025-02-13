@@ -34,7 +34,7 @@ Follow these steps to submit suggestions for new features or improvements. This 
 #### Before Creating an Enhancement Suggestion
 Check these points before creating an enhancement suggestion:
 - **Latest Version**: Ensure you're using the latest version of this dashboard.
-- **Existing Packages**: Check if there is a similar suggestion created in the [issues page]().
+- **Existing Packages**: Check if there is a similar suggestion created in the [issues page](https://github.com/nevererror20/milestone1-group888/issues).
 
 
 
@@ -62,7 +62,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://docs.github.com/e
 
 
 ### Code of Conduct
-We are committed to fostering a welcoming and inclusive community. By participating in this project, you agree to abide by our [Code of Conduct](). Please report any unacceptable behavior to the project maintainers.
+We are committed to fostering a welcoming and inclusive community. By participating in this project, you agree to abide by our [Code of Conduct](https://github.com/nevererror20/milestone1-group888/blob/main/CODE_OF_CONDUCT.md). Please report any unacceptable behavior to the project maintainers.
 
 ### Contact
 If you have any questions or need assistance, feel free to reach out at anlilas031326@gmail.com, raccoonhe@gmail.com or zqj1999@gmail.com.

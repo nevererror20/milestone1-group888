@@ -1,5 +1,4 @@
 # Team Contract
----
 
 ### General Committment
 - Our team will devide the work as equally as possible among all members. 
@@ -10,7 +9,7 @@
 
 
 ### Communication
----
+
 - **Primary Communication Tools**:
   - Slack for daily updates, quick questions, and task coordination.
   - Shared Documents (e.g., Google Docs) for tracking tasks and progress.
@@ -19,7 +18,7 @@
   - Urgent matters should be communicated clearly and addressed immediately.
 
 ### Meetings
----
+
 
 - **Meeting Agenda**:
   - Discuss the modifications needed for the completed work.
@@ -33,20 +32,20 @@
 
 
 ### Decision Making
----
+
 - Every team member's opinion will be valued and considered during decision-making.
 - Major decisions will be made collaboratively, with input from all team members.
 - If consensus cannot be reached, a vote will be taken, and the majority decision will be followed.
 
 ### Problem Solving
----
+
 - Problems will be discussed during meetings or through Slack if urgent.
 - The team will work together to brainstorm and implement solutions.
 - The team will remain flexible and adjust plans as needed to address challenges.
 
 
 ### Conflict Handlling
----
+
 - Conflicts will be addressed openly and respectfully during team meetings.
 - Team members are encouraged to express their concerns calmly and constructively.
 - The team will focus on finding solutions rather than assigning blame.
